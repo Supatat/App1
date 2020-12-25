@@ -1,0 +1,65 @@
+.mycard{
+  width: 250px;
+  margin: 0 auto;
+  display: block;
+  border-radius: 5%;
+  margin:10px auto 10px auto;
+}
+
+.container-form-btn{
+  background-color: #022069;
+  border-radius: 20px;
+  margin-bottom: 15px;
+  
+}
+
+.form-btn{
+  background-color: #022069;
+  color:white;
+  font-family: Kanit;
+  font-size: 12px;
+  margin: 7px;
+  
+
+}
+
+.register-input{
+  margin: 0 auto;
+  display: block;
+  border-radius: 5%;
+  margin:10px auto 10px auto;
+}
+
+form{
+  margin: 0 auto;
+  display: block;
+  border-radius: 20px;
+  --blackground: gray;
+  --color-text :white;
+}
+
+.register-title{
+  margin: 0 auto;
+  display: block;
+  border-radius: 20px;
+}
+
+.wrap-input{
+  background-color:#f4f4f4;
+  border-radius: 20px;
+  margin-bottom: 15px;
+  box-shadow: 0 10px 20px 0px rgba(57,71,82,0.12 );
+}
+.input{
+  display: block;
+  width: 100%;
+  background: transparent;
+  font-family: Kanit;
+  font-size: 12px;
+  line-height: 1.2;
+  border: none;
+  outline: none;
+  height: 30px;
+  padding: 0 20px 0 23px;
+  margin-bottom: 10px;
+}
